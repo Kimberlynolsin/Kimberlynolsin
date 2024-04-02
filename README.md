@@ -20,7 +20,7 @@ I'm Kimberly👋🏼, born and raised in Malaysia but I'm currently residing in 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/Kimberlynolsin/Kimberlynolsin/assets/106711032/57134d06-dcf1-45c1-9ffb-61ea76aeeab7)
 
 ### Currently I am a....
-- Lead Developer for a freelance project!
+- Learning QA!
 
 ## Where to find me
 [![GitHub](https://img.shields.io/badge/GitHub-Visit-<COLOR>?logo=github)](https://github.com/Kimberlynolsin)
