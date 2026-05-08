@@ -1,5 +1,5 @@
 # Hi! Nice to meet you!
-I'm Kimberly👋🏼, born and raised in Malaysia but I'm currently residing in Quebec, CA
+I'm Kimberly👋🏼, born and raised in Malaysia.
 
 ## My Tech Stacks
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465](https://github.com/Kimberlynolsin/Kimberlynolsin/assets/106711032/5546dc54-4aa3-466b-bbe6-a27f0499fd6c)
